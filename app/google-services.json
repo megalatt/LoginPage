@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342910961501",
+    "project_id": "ksrct-4af16",
+    "storage_bucket": "ksrct-4af16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342910961501:android:4d7931113115bc8d2fcab4",
+        "android_client_info": {
+          "package_name": "com.example.ksrct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jAINKqcGs2Dp4eFQAlBrdj6X-8ii8UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
